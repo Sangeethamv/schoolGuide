@@ -1,5 +1,5 @@
 <html>
-
+--for
 <head>
 <title>SchoolGuide</title>
 	<?php
